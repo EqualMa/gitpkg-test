@@ -12,6 +12,6 @@
     "bats-support": "ztombol/bats-support"
   },
   "scripts": {
-    "test": "bats test"
+    "test": "bats test/**/*.bats"
   }
 }
